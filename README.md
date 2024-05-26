@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmoukh21&label=Profile%20views&color=0e75b6&style=flat" alt="shmoukh21" /> </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/shmoukh-abdullah-481597219"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<p align="center"><a href="https://www.linkedin.com/in/shmoukh-abdullah-481597219"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 
 - 🔭 As a Computer Science graduate from #IMSIU, Interested in Artificial intelligence and Machine Learning ,I am particularly interested in opportunities that allow me to harness my proficiency in programming languages such as Java, Python, C++, and Swift, and apply my knowledge in Al and ML and deep learning, data mining, and algorithm development to create innovative solutions that drive business success.
