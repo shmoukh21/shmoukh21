@@ -2,7 +2,13 @@
 <h3 align="center">Queen of artificial intelligence✨
 
 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmoukh21&label=Profile%20views&color=0e75b6&style=flat" alt="shmoukh21" /> </p>
+
+
+
 
 
 <p align="center">
