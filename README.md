@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shmoukh Abdullah</h1>
 <h3 align="center">Queen of artificial intelligence✨</h3>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/shmoukh-abdullah-481597219"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
 - 🔭 As a Computer Science graduate from #IMSIU, Interested in Artificial intelligence and Machine Learning ,I am particularly interested in opportunities that allow me to harness my proficiency in programming languages such as Java, Python, C++, and Swift, and apply my knowledge in Al and ML and deep learning, data mining, and algorithm development to create innovative solutions that drive business success.
 
 - 🌱 I enjoy working in team environment with aim of increasing the productivity and work quality.
