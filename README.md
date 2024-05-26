@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shmoukh Abdullah</h1>
 <h3 align="center">Queen of artificial intelligence✨
 
-</h3>p align="left"> <img src="https://komarev.com/ghpvc/?username=shmoukh21&label=Profile%20views&color=0e75b6&style=flat" alt="shmoukh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shmoukh21" alt="shmoukh21" /></a> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shmoukh21&label=Profile%20views&color=0e75b6&style=flat" alt="shmoukh21" /> </p>
+
+
 <p align="center">
     <a href="https://www.linkedin.com/in/shmoukh-abdullah-481597219"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
