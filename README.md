@@ -11,9 +11,7 @@
 - 🌱 I enjoy working in team environment with aim of increasing the productivity and work quality.
 
 - 🤝 I aspire to invest my free time by working and gaining more experience
-
-- 📫 How to reach me *shmoukh00i8@gmail.com*
-
+- 
 - ⚡ "Always looking forward to learn and pick up new skills!"
 
 
