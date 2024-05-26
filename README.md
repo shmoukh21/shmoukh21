@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmoukh21&label=Profile%20views&color=0e75b6&style=flat" alt="shmoukh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shmoukh21" alt="shmoukh21" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shmokh_i8" target="blank"><img src="https://img.shields.io/twitter/follow/shmokh_i8?logo=twitter&style=for-the-badge" alt="shmokh_i8" /></a> </p>
 
 - 🔭 As a Computer Science graduate from #IMSIU, Interested in Artificial intelligence and Machine Learning ,I am particularly interested in opportunities that allow me to harness my proficiency in programming languages such as Java, Python, C++, and Swift, and apply my knowledge in Al and ML and deep learning, data mining, and algorithm development to create innovative solutions that drive business success.
